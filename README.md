@@ -9,8 +9,10 @@
 </div>
 <div align="center">
 	<h3>Glad to see you here!</h3>
+	
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=mrunalselokar.mrunalselokar)
+
 </div>
- ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=mrunalselokar.mrunalselokar)
 <hr>
 
 ## Languages and Tools:
