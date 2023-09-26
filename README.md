@@ -1,6 +1,6 @@
 <div id="header" align="center">
   	<img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
-	<h1> Hello, its Mrunal! </h1>
+	<h1> Hello, it's Mrunal! </h1>
 	<div id="badges">
 	  <a href="https://www.linkedin.com/in/mrunal-selokar/">
 	    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"  />
 
 </p>
 
